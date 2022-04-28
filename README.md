@@ -1,8 +1,8 @@
 - 👋 Hi,here is @mahakoutb
-- 👀 I’m Data Science enthusiast 
-- 🌱 I’m currently learning ...Data  with udacity & Data Camp 
+- 👀 I’m Engineer & Data Science enthusiast 
+- 🌱 I’m currently learning ...Data Scienice with Python  @ udacity & Data Camp 
 - 💞️ I’m looking to collaborate on ML Projects
-- 📫 How to reach me ...
+- 📫 How to reach me/ eng.maha2012@outlook.com.
 
 <!---
 mahakoutb/mahakoutb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
