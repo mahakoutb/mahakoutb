@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mahakoutb
-- 👀 I’m interested in Data Analysis & Data Science 
-- 🌱 I’m currently learning ...Data Analysis with udacity & Data Camp 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi,here is @mahakoutb
+- 👀 I’m Data Science enthusiast 
+- 🌱 I’m currently learning ...Data  with udacity & Data Camp 
+- 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me ...
 
 <!---
