@@ -1,8 +1,41 @@
-- 👋 Hi,here is @mahakoutb
-- 👀 I’m Engineer & Data Science enthusiast 
-- 🌱 I’m currently learning ...Data Scienice with Python  @ udacity & Data Camp 
-- 💞️ I’m looking to collaborate on ML Projects
-- 📫 How to reach me/ eng.maha2012@outlook.com.
+- 👋 Hi Iam Maha Koutb @mahakoutb
+- 👀 I’m Engineer & Data enthusiast 
+- 🌱 I’m currently  a Data Analyst and  learning ..Data Engineering  with Python  @ udacity & Data Camp 
+- 💞️ I’m looking to collaborate on ETL Projects
+- 📫 Email    :eng.maha2012@outlook.com.
+- 📫 Linkedin : https://www.linkedin.com/in/maha-koutb/
+- 📫 Power BI Portfolio : https://www.novypro.com/profile_projects/maha-koutb
+
+
+
+Area of knoweldge & Experience 
+* Data Analysis
+* Statistics
+* AB Testing
+* Exploratory Data
+* Project Management
+* Operation Managment
+
+
+Programming Languages :
+* Python
+
+Query Languages 
+* SQL
+
+
+Business intelligence tools :
+* Power BI
+* DAX
+* Power Query
+
+
+
+Analysis Tools
+* Microsoft Excel
+* Microsoft Power BI
+* Google Data Studio 
+
 
 
 
