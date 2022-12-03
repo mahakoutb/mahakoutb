@@ -1,4 +1,4 @@
-- 👋 Hi Iam Maha Koutb @mahakoutb
+- 👋 Hi I am Maha Koutb @mahakoutb
 - 👀 I’m Engineer & Data enthusiast 
 - 🌱 I’m currently  a Data Analyst and  learning ..Data Engineering  with Python  @ udacity & Data Camp 
 - 💞️ I’m looking to collaborate on ETL Projects
@@ -25,15 +25,10 @@ Query Languages
 
 
 Business intelligence tools :
-* Power BI
+* Microsoft Power BI
+* Microsoft Excel
 * DAX
 * Power Query
-
-
-
-Analysis Tools
-* Microsoft Excel
-* Microsoft Power BI
 * Google Data Studio 
 
 
