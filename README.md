@@ -30,6 +30,8 @@ Business intelligence tools :
 * DAX
 * Power Query
 * Google Data Studio 
+* Jupyter
+* Google Colab
 
 
 
