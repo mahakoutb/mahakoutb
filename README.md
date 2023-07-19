@@ -1,6 +1,6 @@
 - 👋 Hi I am Maha Koutb @mahakoutb
 - 👀 I’m Engineer & Data Professional
-- 🌱 I’m currently  a Data Analyst and  learning ..Data Science  with Python  @ udacity & Data Camp 
+- 🌱 I’m currently  a Data Analyst and  learning ..Data Science  with Python  @ udacity & Google
 - 💞️ I’m looking to collaborate on ML & ETL Projects
 - 📫 Email    :eng.maha2012@outlook.com.
 - 📫 Linkedin : https://www.linkedin.com/in/maha-koutb/
