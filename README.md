@@ -56,5 +56,5 @@ You can click the Preview link to take a look at your changes.
 #### Find me in social media
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/mahakoutb "Github")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/maha-koutb-8425697a/ "LinkedIn")
-[![YouTube](https://img.shields.io/badge/-YouTub-red?style=flat&logo=Linkedin&logoColor=white "YouTube")]([(https://www.youtube.com/@mahakoutb/about)https://www.youtube.com/@mahakoutb/about")
+[![YouTube](https://img.shields.io/badge/-YouTub-red?style=flat&logo=YouTube&logoColor=white "YouTube")](https://www.youtube.com/@mahakoutb/about")
 
