@@ -26,6 +26,7 @@ Programming Languages :
 
 Query Languages 
 * SQL
+* NOSQL - Document
 
 
 Business intelligence tools :
