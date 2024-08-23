@@ -1,6 +1,6 @@
 - 👋 Hi I am Maha Koutb @mahakoutb
 - 👀 I’m Engineer , Data Professional , Operation Control A. Supervisor and Appsheet Developer 
-- 🌱 I’m currently  Computer Science student @Arab Academy for Science technolgy and martitme transportarion AAST
+- 🌱 I’m currently  Computer Science student @Arab Academy for Science technolgy and martitme transport- AAST
 - 💞️ I’m looking to collaborate on Data Integration , ETL Projects , Design and Building Data warehouse using  MongoDB
 - 📫 Email    :eng.maha2012@outlook.com.
 - 📫 Linkedin : https://www.linkedin.com/in/maha-koutb/
