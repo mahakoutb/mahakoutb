@@ -27,6 +27,10 @@ Programming Languages :
 Query Languages 
 * SQL
 * NOSQL - Document
+  
+DBMS
+* MS SQL Server
+* MongoDB
 
 
 Business intelligence tools :
