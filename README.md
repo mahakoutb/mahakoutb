@@ -1,7 +1,7 @@
 - 👋 Hi I am Maha Koutb @mahakoutb
-- 👀 I’m Engineer & Data Professional
-- 🌱 I’m currently  a Data Analyst and  learning ..Data Science  with Python  @ udacity & Google
-- 💞️ I’m looking to collaborate on ML & ETL Projects
+- 👀 I’m Engineer , Data Professional , Operation Control A. Supervisor and Appsheet Developer 
+- 🌱 I’m currently  Computer Science student @Arab Academy for Science technolgy and martitme transportarion AAST
+- 💞️ I’m looking to collaborate on Data Integration and ETL Projects
 - 📫 Email    :eng.maha2012@outlook.com.
 - 📫 Linkedin : https://www.linkedin.com/in/maha-koutb/
 - 📫 Power BI Portfolio : https://www.novypro.com/profile_projects/maha-koutb
@@ -10,6 +10,9 @@
 
 Area of knoweldge & Experience 
 * Data Analysis
+* Data Base
+* Data Structre 
+* Low Code Applications
 * Statistics
 * AB Testing
 * Exploratory Data
@@ -19,6 +22,7 @@ Area of knoweldge & Experience
 
 Programming Languages :
 * Python
+* C
 
 Query Languages 
 * SQL
